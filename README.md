@@ -15,12 +15,13 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Data-Microsoft-blue?logo=database&logoColor=white">
-  <img src="https://img.shields.io/badge/Azure%20AI-Enabled-blueviolet?logo=microsoftazure">
-  <img src="https://img.shields.io/badge/GitHub%20Copilot-AI%20Assistant-4B8BBE?logo=githubcopilot">
-  <img src="https://img.shields.io/github/license/jackiemakhija/AI-Agenti-usecase-Templates">
-  <img src="https://img.shields.io/github/languages/top/jackiemakhija/AI-Agenti-usecase-Templates">
-  <img src="https://img.shields.io/github/last-commit/jackiemakhija/AI-Agenti-usecase-Templates">
+  <img src="https://raw.githubusercontent.com/databricks/branding-guide/main/databricks-logo.svg" alt="Databricks" height="60">
+  &nbsp;
+  <img src="https://learn.microsoft.com/en-us/fabric/media/fabric-icon.png" alt="Microsoft Fabric" height="60">
+  &nbsp;
+  <img src="https://assets.snowflake.com/logos/snowflake-logo-blue.svg" alt="Snowflake" height="60">
+  &nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" alt="Azure AI Foundry" height="60">
 </p>
 
 ---
