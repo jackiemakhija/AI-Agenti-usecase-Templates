@@ -19,7 +19,7 @@
   &nbsp;
   <img src="https://learn.microsoft.com/en-us/fabric/media/fabric-icon.png" alt="Microsoft Fabric" height="60">
   &nbsp;
-  <img src="https://assets.snowflake.com/logos/snowflake-logo-blue.svg" alt="Snowflake" height="60">
+  <img src="https://raw.githubusercontent.com/jackiemakhija/AI-Agenti-usecase-Templates/main/images/snowflake-logo.svg" alt="Snowflake" height="60">
   &nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" alt="Azure AI Foundry" height="60">
 </p>
